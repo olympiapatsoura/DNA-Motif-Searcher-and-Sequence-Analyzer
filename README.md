@@ -1,5 +1,4 @@
 # DNA Motif Searcher and Sequence Analyzer
-#### Video Demo: https://youtu.be/gUcDAtrKnnE?si=S5ZkMdv7eu6iK2L1
 #### Description:
 
 The **DNA Motif Searcher and Sequence Analyzer** is a Python-based command-line tool designed to simplify fundamental bioinformatics tasks. In biological research and computational biology, analyzing DNA sequences is a crucial step toward understanding genetic structures, identifying functional sequence patterns, and simulating molecular biology processes such as gene transcription. This project provides a reliable and thoroughly tested set of functions to validate raw DNA inputs, locate specific target motifs (including overlapping matches), calculate GC-content ratios, and convert DNA sequences into RNA.
